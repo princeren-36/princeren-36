@@ -19,11 +19,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<h2 align="center">GitHub Streak</h2>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=princeren-36&theme=radical" alt="GitHub Streak"/>
-</p>
-
 <h2 align="center">Top Languages</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeren-36&layout=compact&theme=radical" alt="Top Languages"/>
@@ -32,9 +27,4 @@ Here are some ideas to get you started:
 <h2 align="center">GitHub Achievements</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=princeren-36&theme=radical" alt="GitHub Achievements"/>
-</p>
-
-<h2 align="center">GitHub Contributions</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=princeren-36&theme=radical" alt="GitHub Activity Graph"/>
 </p>
