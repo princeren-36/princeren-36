@@ -31,3 +31,5 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31g4j5y57q7oy65jhlhu5z7btrhy&cover_image=true&theme=radical&bar_color=53b14f&bar_color_cover=true" alt="Currently Playing"/>
 </p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=princeren-36&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
