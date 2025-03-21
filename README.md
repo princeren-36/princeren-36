@@ -21,3 +21,8 @@ Here are some ideas to get you started:
   <img src="https://github-profile-trophy.vercel.app/?username=princeren-36&theme=radical" alt="GitHub Achievements"/>
 </p>
 
+<h2 align="">What I'm Learning/Using</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cs,dotnet,kotlin,python,js,html,css,express,react,nodejs" /><br>
+  <img src="https://skillicons.dev/icons?i=mysql,vscode,visualstudio,androidstudio,windows,linux,git,github" />
+</p>
