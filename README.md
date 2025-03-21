@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 
 <h2 align="center">Currently Playing on Spotify</h2>
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=renatoperas36&cover_image=true&theme=radical&bar_color=53b14f&bar_color_cover=true" alt="Currently Playing"/>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31g4j5y57q7oy65jhlhu5z7btrhy&cover_image=true&theme=radical&bar_color=53b14f&bar_color_cover=true" alt="Currently Playing"/>
 </p>
