@@ -38,14 +38,11 @@
 
 ---
 
-### 📫 Let's Connect
+### 🧑‍💻 Animated Coding GIF
 
-Feel free to reach out to me if you want to talk tech, coding, or anything else!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- 📝 [Blog](https://yourblog.com)
-- 💬 [Twitter](https://twitter.com/yourprofile)
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Code animation"/>
+</p>
 
 ---
-
 Thanks for visiting my profile! Let's keep learning and growing together. 😊
