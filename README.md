@@ -26,3 +26,8 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=java,cs,dotnet,kotlin,python,js,html,css,express,react,nodejs" /><br>
   <img src="https://skillicons.dev/icons?i=mysql,vscode,visualstudio,androidstudio,windows,linux,git,github" />
 </p>
+
+<h2 align="center">Currently Playing on Spotify</h2>
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_username&cover_image=true&theme=radical&bar_color=53b14f&bar_color_cover=true" alt="Currently Playing"/>
+</p>
