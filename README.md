@@ -8,3 +8,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... MERN
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Im damb
+
+<img align="right" alt="Coding" width="400" src="add your link 
+  here">
