@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="38%" src="https://github-readme-stats.vercel.app/api?username=princeren-36&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats"/>
-  </a>
+  </a><br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=princeren-36&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeren-36&layout=compact&theme=radical" alt="Top Languages"/>
   <img src="https://github-profile-trophy.vercel.app/?username=princeren-36&theme=radical" alt="GitHub Achievements"/>
