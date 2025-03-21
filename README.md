@@ -17,14 +17,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="38%" src="https://github-readme-stats.vercel.app/api?username=princeren-36&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats"/>
   </a>
-</p>
-
-<h2 align="center">Top Languages</h2>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeren-36&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
-<h2 align="center">GitHub Achievements</h2>
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=princeren-36&theme=radical" alt="GitHub Achievements"/>
 </p>
+
