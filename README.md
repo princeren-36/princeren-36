@@ -1,7 +1,10 @@
 ## Hi there 👋
 <h1 align="center">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">  
+    <br>
     <img src="https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Renato!" alt="Typing SVG" />
 </h1>
+
 
 ### Here's a little about me:
 
