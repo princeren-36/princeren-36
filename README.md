@@ -5,8 +5,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Renato!" alt="Typing SVG" />
 </h1>
 
----
-
 <p align="center">
   <img src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif"/>
 </p>
