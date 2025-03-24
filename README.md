@@ -45,7 +45,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/60/a5/85/60a58511e5c70a418ac743f7df8134fa.gif" width="200" alt="Japan"/>
+  <img src="https://i.pinimg.com/originals/60/a5/85/60a58511e5c70a418ac743f7df8134fa.gif" width="500" alt="Japan"/>
 </p>
 
 ---
