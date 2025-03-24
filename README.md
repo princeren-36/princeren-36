@@ -5,7 +5,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Renato!" alt="Typing SVG" />
 </h1>
 
+---
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif"/>
+</p>
+
+---
 ### Here's a little about me:
 
 - 🔭 **Currently working on**: Myself and my coding skills  
@@ -42,11 +48,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=princeren-36&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif"/>
-</p>
 
 ---
 
