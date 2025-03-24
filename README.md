@@ -44,10 +44,8 @@
 
 ---
 
-### 🧑‍💻 Animated Coding GIF
-
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Code animation"/>
+  <img src="https://i.pinimg.com/originals/60/a5/85/60a58511e5c70a418ac743f7df8134fa.gif" width="200" alt="Japan"/>
 </p>
 
 ---
