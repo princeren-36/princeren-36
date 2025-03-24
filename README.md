@@ -45,7 +45,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/60/a5/85/60a58511e5c70a418ac743f7df8134fa.gif"/>
+  <img src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif"/>
 </p>
 
 ---
