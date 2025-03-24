@@ -2,7 +2,6 @@
   <img src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif"/>
 </p>
 
-## Hi there 👋
 <h1 align="center">
     <img src="https://media.tenor.com/OjzCsUydYUEAAAAM/cute-cha-pri.gif" width="300">  
     <br>
